@@ -6,8 +6,9 @@ comments: true
 ---
 
 <div style="width:20%;align:left" >
-<img src="../image/vic.jpg"/>
+<img src="/about/index/vic.jpg"/>
 </div>
+
 
 
 
